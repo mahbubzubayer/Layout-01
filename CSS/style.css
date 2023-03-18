@@ -1,0 +1,59 @@
+*{
+                    margin: 0%;
+                }
+                header{
+                    width: 100%;
+                    height: 125px;
+                    background-color: black;
+                    color: aqua;
+                    text-align: center;
+                }
+                .navi{
+                    width: 100%;
+                    height: 80px;
+                    background-color: rgb(33, 29, 29);
+                    color: aqua;
+                    text-align: center;
+                }
+                .bod{
+                    overflow: hidden;
+                
+                }
+                .arti{
+                    width: 60%;
+                    height: 500px;
+                    background-color: rgb(46, 45, 45);
+                    color: aqua;
+                    text-align: center;
+                    float: left;
+                }
+                .as{
+                    width: 40%;
+                    height: 500px;
+                    background-color: rgb(93, 92, 92);
+                    color: aqua;
+                    text-align: center;
+                    float: right;
+                }
+                .sec{
+                    width: 100%;
+                    height: 15%;
+                    background-color: rgb(111, 107, 107);
+                    color: aqua;
+                    text-align: center;
+                
+                }
+                .heading{
+                    width: 100%;
+                    height: 15%;
+                    background-color: rgb(145, 141, 141);
+                    color: aqua;
+                    text-align: center;
+                }
+                footer{
+                    width: 100%;
+                    height: 100px;
+                    background-color: rgb(29, 25, 25);
+                    text-align: center;
+                    color: aqua;
+                }
